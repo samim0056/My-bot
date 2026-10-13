@@ -8,7 +8,7 @@ from phonenumbers import geocoder
 import telebot
 from telebot import types
 
-BOT_TOKEN = "8716955781:AAHT9loYpXquEINc-Yq0F5PWe7olN2jKuEo"
+BOT_TOKEN = "8716955781:AAEionvHz5YOq7bMRKAEE6XGQ23Uw2PyDHI"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 user_sessions = {}
